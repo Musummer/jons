@@ -1,0 +1,15 @@
+[
+    {
+        "type":"card",
+        "theme":"secondary",
+        "size":"lg",
+        "modules":[
+            {
+                "type":"audio",
+                "title":"命运交响曲",
+                "src":"https://music.163.com/song/media/outer/url?id=186843.mp3",
+                "cover":""
+            }
+        ]
+    }
+]
